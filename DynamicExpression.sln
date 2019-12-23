@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicExpression.Console", "DynamicExpression.Console\DynamicExpression.Console.csproj", "{3E1501DA-2F82-4978-97CB-33953EE73AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicExpression", "DynamicExpression\DynamicExpression.csproj", "{9D6182AF-A1A9-4FC9-9036-3C57AA619517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1501DA-2F82-4978-97CB-33953EE73AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1501DA-2F82-4978-97CB-33953EE73AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1501DA-2F82-4978-97CB-33953EE73AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1501DA-2F82-4978-97CB-33953EE73AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6182AF-A1A9-4FC9-9036-3C57AA619517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6182AF-A1A9-4FC9-9036-3C57AA619517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6182AF-A1A9-4FC9-9036-3C57AA619517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6182AF-A1A9-4FC9-9036-3C57AA619517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224007B9-1BA0-4D0E-9862-AEBC0DD1C0CF}
+	EndGlobalSection
+EndGlobal
